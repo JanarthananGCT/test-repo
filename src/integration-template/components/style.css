@@ -1,0 +1,11 @@
+.triggerText {
+  font-size: 13.33px;
+  font-weight: 400 !important;
+  line-height: 30px;
+  color: #848484 !important;
+}
+
+.triggerTextBold {
+  color: #6A6A6A !important;
+  font-weight: 600 !important;
+}
